@@ -2,7 +2,7 @@
   "title": "守成クラブぎふ柳ヶ瀬会場",
   "description": "守成クラブぎふ柳ヶ瀬会場夜のおもてなしマップ",
   "form_url": "",
-  "logo_image_url": "https://github.com/jyan10/MAP3/blob/master/public/manifest.json",
+  "logo_image_url": "https://github.com/jyan10/MAP3/blob/master/public/%E5%AE%88%E6%88%90%E3%82%AF%E3%83%A9%E3%83%96.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e"
 }
