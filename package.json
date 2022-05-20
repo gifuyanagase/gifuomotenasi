@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://jyan10.github.io/gifugifuomotenasi/",
+  "homepage": "https://jyan10.github.io/gifuomotenasi/",
   "eslintConfig": {
     "extends": "react-app"
   },
