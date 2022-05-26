@@ -3,6 +3,6 @@
   "description": "守成クラブぎふ柳ヶ瀬会場夜のおもてなしマップ",
   "form_url": "",
   "logo_image_url": "https://github.com/jyan10/gifuomotenasi/blob/master/public/shusei.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "background_image_url": "https://github.com/jyan10/gifuomotenasi/blob/master/public/map.jpg",
   "primary_color": "#d2691e"
 }
